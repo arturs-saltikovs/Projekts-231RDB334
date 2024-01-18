@@ -1,0 +1,400 @@
+GPU modelis: GeForce GT 210, Dzinēja ātrums (GPU speed): 589 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 1 GB, Atmiņas tehnoloģija: DDR2, Dzesēšana: Standard Cooler, Cena: 45.16
+GPU modelis: GeForce GT 220, Dzinēja ātrums (GPU speed): 625 MHz, Operatīvā atmiņa: 1 GB, Atmiņas tehnoloģija: DDR3, Dzesēšana: Standard Cooler, Cena: 51.14
+GPU modelis: GeForce GT 710, Dzinēja ātrums (GPU speed): 954 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: SDDR3, Dzesēšana: Passive, Cena: 56.17
+GPU modelis: GeForce GT 710, Dzinēja ātrums (GPU speed): 954 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR3, Dzesēšana: Passive, Cena: 57.84
+GPU modelis: GeForce GT 710, Dzinēja ātrums (GPU speed): 954 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 66.13
+GPU modelis: GeForce GT 730, Dzinēja ātrums (GPU speed): 700 MHz, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: DDR3, Dzesēšana: Standard Cooler, Cena: 67.18
+GPU modelis: GeForce GT 730, Dzinēja ātrums (GPU speed): 902 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: DDR3, Dzesēšana: Standard Cooler, Cena: 69.97
+GPU modelis: GeForce GT 710, Dzinēja ātrums (GPU speed): 954 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR3, Dzesēšana: Passive, Cena: 71.35
+GPU modelis: GeForce GT 730, Dzinēja ātrums (GPU speed): 902 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR3, Dzesēšana: Standard Cooler, Cena: 72.31
+GPU modelis: GeForce GT 730, Dzinēja ātrums (GPU speed): 902 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR3, Dzesēšana: Passive, Cena: 82.93
+GPU modelis: GeForce GT 730, Dzinēja ātrums (GPU speed): 902 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR3, Dzesēšana: Standard Cooler, Cena: 87.18
+GPU modelis: GeForce GT 730, Dzinēja ātrums (GPU speed): 902 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: DDR3, Dzesēšana: Passive, Cena: 90.3
+GPU modelis: GeForce GT 730, Dzinēja ātrums (GPU speed): 902 MHz, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: DDR3, Dzesēšana: Standard Cooler, Cena: 93.44
+GPU modelis: GeForce GT 730, Dzinēja ātrums (GPU speed): 902 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Passive, Cena: 97.73
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1227 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Passive, Cena: 100.16
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1468 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Passive, Cena: 100.3
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1468 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 100.76
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1468 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 104.27
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1468 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 104.28
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1227 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 104.85
+GPU modelis: Radeon RX 550, Dzinēja ātrums (GPU speed): 1100 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: High-End Cooler, Cena: 105.47
+GPU modelis: Radeon RX 550, Dzinēja ātrums (GPU speed): 1206 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 105.62
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1151 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: DDR4, Dzesēšana: Standard Cooler, Cena: 106.87
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1518 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 106.97
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1506 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 113.42
+GPU modelis: Intel Arc A310, Dzinēja ātrums (GPU speed): 2000 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 127.51
+GPU modelis: Intel Arc A380, Dzinēja ātrums (GPU speed): 2250 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 6 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 143.71
+GPU modelis: Radeon RX 6400, Dzinēja ātrums (GPU speed): 2039 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 147.78
+GPU modelis: Radeon RX 6400, Dzinēja ātrums (GPU speed): 2321 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 169.04
+GPU modelis: GeForce GTX 1650, Dzinēja ātrums (GPU speed): 1485 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 169.44
+GPU modelis: GeForce GTX 1050 Ti, Dzinēja ātrums (GPU speed): 1291 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Blower, Cena: 169.63
+GPU modelis: Radeon RX 6400, Dzinēja ātrums (GPU speed): 2039 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 173.75
+GPU modelis: GeForce GT 1030, Dzinēja ātrums (GPU speed): 1468 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 2 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Passive, Cena: 178.14
+GPU modelis: GeForce GTX 1650, Dzinēja ātrums (GPU speed): 1620 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 182.14
+GPU modelis: GeForce GTX 1650, Dzinēja ātrums (GPU speed): 1755 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 182.27
+GPU modelis: Radeon RX 6400, Dzinēja ātrums (GPU speed): 2039 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 186.29
+GPU modelis: GeForce GTX 1650, Dzinēja ātrums (GPU speed): 1590 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 187.36
+GPU modelis: Radeon RX 6500 XT, Dzinēja ātrums (GPU speed): 2650 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 190.25
+GPU modelis: GeForce GTX 1650, Dzinēja ātrums (GPU speed): 1620 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 192.78
+GPU modelis: Radeon RX 6400, Dzinēja ātrums (GPU speed): 2039 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 198.2
+GPU modelis: Radeon RX 6400, Dzinēja ātrums (GPU speed): 2039 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 200.18
+GPU modelis: Radeon RX 6500 XT, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 205.47
+GPU modelis: GeForce GTX 1650 SUPER, Dzinēja ātrums (GPU speed): 1530 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 215.4
+Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Cena: 216.92
+GPU modelis: GeForce GTX 1650, Dzinēja ātrums (GPU speed): 1410 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 222.87
+GPU modelis: GeForce GTX 1650, Dzinēja ātrums (GPU speed): 1590 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 223.26
+GPU modelis: Intel Arc A580, Dzinēja ātrums (GPU speed): 1700 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 228.19
+GPU modelis: Radeon RX 6600, Dzinēja ātrums (GPU speed): 2044 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 237.45
+GPU modelis: Radeon RX 6500 XT, Dzinēja ātrums (GPU speed): 2685 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 241.5
+GPU modelis: Radeon RX 6500 XT, Dzinēja ātrums (GPU speed): 2685 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 246.03
+GPU modelis: Radeon RX 6600, Dzinēja ātrums (GPU speed): 2044 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 246.63
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1807 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 248.25
+GPU modelis: Radeon RX 6600, Dzinēja ātrums (GPU speed): 2044 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 254.68
+GPU modelis: GeForce GTX 1660 SUPER, Dzinēja ātrums (GPU speed): 1530 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 6 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 257.32
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1792 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 261.6
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 262.54
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1807 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 267.56
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 270.23
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 272.38
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 272.79
+GPU modelis: Radeon RX 6600, Dzinēja ātrums (GPU speed): 2491 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 279.28
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1822 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 279.86
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1822 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 282.11
+GPU modelis: Intel Arc A750, Dzinēja ātrums (GPU speed): 2200 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 289.69
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1807 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 302.0
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1807 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 311.3
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1807 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 312.59
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1830 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 313.91
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2280 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 319.45
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 320.0
+GPU modelis: Radeon RX 6600, Dzinēja ātrums (GPU speed): 2044 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 320.77
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2355 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 321.07
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2355 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 321.69
+GPU modelis: Intel Arc A750, Dzinēja ātrums (GPU speed): 2200 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 326.74
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 328.54
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 328.94
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 332.31
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 332.31
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2280 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 333.65
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 337.0
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1837 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 337.74
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1807 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 338.03
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1792 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 338.03
+GPU modelis: Quadro P1000, Dzinēja ātrums (GPU speed): 1354 MHz, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 340.29
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1807 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 342.29
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1792 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 342.58
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 343.41
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 350.03
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2250 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 351.26
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1837 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 354.16
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 355.47
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 358.13
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1792 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 358.41
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 358.82
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2355 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 359.12
+GPU modelis: Radeon RX 6600, Dzinēja ātrums (GPU speed): 2491 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 359.16
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2490 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 359.39
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 361.51
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 361.92
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2490 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 362.09
+GPU modelis: Quadro P1000, Dzinēja ātrums (GPU speed): 1354 MHz, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 363.37
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2250 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 363.74
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 364.4
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 364.7
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 365.56
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 368.41
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 370.28
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1777 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 370.89
+GPU modelis: Intel Arc A770, Dzinēja ātrums (GPU speed): 2150 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 373.93
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2490 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 376.64
+GPU modelis: GeForce RTX 3050, Dzinēja ātrums (GPU speed): 1845 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 376.87
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2250 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 379.46
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 379.99
+GPU modelis: Intel Arc A770, Dzinēja ātrums (GPU speed): 2200 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 381.05
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 381.58
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 381.85
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 383.22
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 383.63
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 383.8
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 384.96
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2580 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 387.72
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2460 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 387.75
+GPU modelis: Radeon RX 6600, Dzinēja ātrums (GPU speed): 2491 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 392.46
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 393.16
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2355 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 393.4
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 393.8
+GPU modelis: Quadro P1000, Dzinēja ātrums (GPU speed): 1266 MHz, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 395.81
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2490 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 405.24
+GPU modelis: Intel Arc A770, Dzinēja ātrums (GPU speed): 2200 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 411.52
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 416.03
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 417.21
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2320 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 420.65
+GPU modelis: Quadro P1000, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 421.48
+GPU modelis: Intel Arc A770, Dzinēja ātrums (GPU speed): 2200 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 429.06
+GPU modelis: Radeon RX 6750 XT, Dzinēja ātrums (GPU speed): 2495 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 429.09
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 432.06
+GPU modelis: GeForce RTX 4060, Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 436.17
+GPU modelis: Radeon RX 6700 XT, Dzinēja ātrums (GPU speed): 2424 MHz, Barošanas ligzdas: 1x 8-pin + 1x 6-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 437.87
+GPU modelis: Quadro P1000, Dzinēja ātrums (GPU speed): Nav norādīts, Operatīvā atmiņa: 4 GB, Atmiņas tehnoloģija: GDDR5, Dzesēšana: Standard Cooler, Cena: 445.6
+GPU modelis: Radeon RX 6750 XT, Dzinēja ātrums (GPU speed): 2512 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 445.73
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 449.52
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 454.21
+GPU modelis: GeForce RTX 3060, Dzinēja ātrums (GPU speed): 1320 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 454.21
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 463.54
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 465.31
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 465.31
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 467.51
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 472.73
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 475.08
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 476.38
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 477.57
+GPU modelis: GeForce RTX 3070, Dzinēja ātrums (GPU speed): 1725 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 478.92
+GPU modelis: Radeon RX 6750 XT, Dzinēja ātrums (GPU speed): 2495 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 486.67
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2685 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 490.02
+GPU modelis: Radeon RX 6750 XT, Dzinēja ātrums (GPU speed): 2495 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 490.77
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 493.23
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 493.53
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 493.94
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 494.02
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2276 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 497.22
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 498.56
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2580 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 501.63
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 504.5
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 506.93
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 506.93
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 507.66
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2310 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 508.45
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 511.34
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2580 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 513.79
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 514.74
+GPU modelis: Radeon RX 6800, Dzinēja ātrums (GPU speed): 1815 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 515.21
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 516.28
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 516.68
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 516.81
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 522.1
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 522.55
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2226 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 524.79
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 528.4
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 528.43
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2171 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 531.2
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 533.37
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2226 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 539.64
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 540.34
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2276 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 540.44
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2226 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 543.62
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2276 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 545.11
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 546.25
+GPU modelis: GeForce RTX 3070, Dzinēja ātrums (GPU speed): 1815 MHz, Barošanas ligzdas: 1x 8-pin + 1x 6-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 547.3
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 549.21
+GPU modelis: Radeon RX 6750 XT, Dzinēja ātrums (GPU speed): 2554 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 550.35
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 551.63
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 552.22
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 553.61
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 558.79
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2226 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 558.91
+Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Cena: 560.74
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2625 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 562.98
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 563.17
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 564.78
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 565.05
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 565.94
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 566.0
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2425 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 566.06
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 569.18
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 572.49
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 572.9
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 583.31
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2276 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 587.49
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 591.97
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2276 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 593.03
+GPU modelis: GeForce RTX 4060 Ti (8GB), Dzinēja ātrums (GPU speed): 2655 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 595.14
+GPU modelis: GeForce GTX 1660 SUPER, Dzinēja ātrums (GPU speed): 1785 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 6 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 596.51
+GPU modelis: Radeon RX 6800 XT, Dzinēja ātrums (GPU speed): 2065 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 598.11
+GPU modelis: Radeon RX 7700 XT, Dzinēja ātrums (GPU speed): 2226 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 600.89
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 605.32
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2124 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 605.99
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 608.6
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2254 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 615.23
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2655 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 616.33
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 617.18
+GPU modelis: Radeon RX 6800 XT, Dzinēja ātrums (GPU speed): 2250 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 618.6
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2169 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 629.61
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 632.92
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2124 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 633.56
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2213 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 637.15
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 639.27
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2124 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 642.63
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2254 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 646.91
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2254 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 647.66
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2213 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 655.19
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 655.6
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2254 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 658.56
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 660.44
+GPU modelis: GeForce RTX 3070 Ti, Dzinēja ātrums (GPU speed): 1770 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 663.76
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 664.8
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2490 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 666.5
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 668.92
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2520 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 669.0
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 675.88
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 675.88
+GPU modelis: Radeon RX 7800 XT, Dzinēja ātrums (GPU speed): 2213 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 676.88
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 689.33
+GPU modelis: GeForce RTX 3070, Dzinēja ātrums (GPU speed): 1725 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 691.4
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 695.9
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 695.92
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 697.42
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 698.07
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2490 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 703.59
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 709.13
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 711.77
+GPU modelis: Radeon RX 7600, Dzinēja ātrums (GPU speed): 2300 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 713.55
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 714.97
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2490 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 719.12
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 720.21
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 720.21
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2520 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 725.93
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 728.26
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 729.39
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 736.52
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 738.44
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 742.38
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 743.83
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 744.86
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 746.02
+Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Cena: 746.32
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2490 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 746.86
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 750.91
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 753.46
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 754.57
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 760.4
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 764.13
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 764.55
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 766.41
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 766.83
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 767.77
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 776.84
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 777.49
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2475 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 785.26
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 785.47
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 787.25
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 797.13
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 797.8
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 802.72
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 806.35
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 815.58
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 839.97
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 842.13
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 847.0
+GPU modelis: GeForce RTX 4070, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 858.62
+GPU modelis: Radeon RX 7900 XT, Dzinēja ātrums (GPU speed): 2175 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 20 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 894.86
+GPU modelis: Radeon RX 7900 XT, Dzinēja ātrums (GPU speed): 2075 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 20 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 898.96
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 905.28
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 915.12
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 919.72
+GPU modelis: Radeon RX 7900 XT, Dzinēja ātrums (GPU speed): 2220 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 20 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 920.51
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2310 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 931.48
+GPU modelis: Radeon RX 7900 XT, Dzinēja ātrums (GPU speed): 2075 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 20 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 932.54
+GPU modelis: GeForce RTX 4070 SUPER, Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 941.88
+GPU modelis: Radeon RX 7900 XT, Dzinēja ātrums (GPU speed): 2075 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 20 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 947.13
+GPU modelis: Radeon RX 7900 XT, Dzinēja ātrums (GPU speed): 2130 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 20 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 951.33
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2625 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 952.97
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 952.97
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2625 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 955.91
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 959.89
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 963.49
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 964.05
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 964.21
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2625 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 967.32
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2730 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 968.2
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 978.53
+GPU modelis: GeForce RTX 3070, Dzinēja ātrums (GPU speed): 1725 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 987.26
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 990.21
+GPU modelis: Radeon RX 7900 XT, Dzinēja ātrums (GPU speed): 2175 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 20 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 994.41
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 999.45
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1011.51
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 1012.24
+GPU modelis: Radeon RX 7900 XT, Dzinēja ātrums (GPU speed): 2220 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 20 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1015.39
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2730 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1023.46
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1033.71
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 1041.68
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2730 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1052.77
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2625 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1056.36
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2730 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1068.14
+GPU modelis: GeForce RTX 4060 Ti (16GB), Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 1069.35
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2655 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1071.84
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2700 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Liquid Cooling Solution, Cena: 1074.87
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2700 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Water Block Only, Cena: 1074.87
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2775 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1087.05
+GPU modelis: Radeon RX 7900 XTX, Dzinēja ātrums (GPU speed): 2455 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1087.27
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2640 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1103.39
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1119.85
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1139.8
+GPU modelis: Radeon RX 7900 XTX, Dzinēja ātrums (GPU speed): 2510 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1146.9
+GPU modelis: RTX A4000, Dzinēja ātrums (GPU speed): 1560 MHz, Barošanas ligzdas: 1x 6-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Blower, Cena: 1158.44
+GPU modelis: Radeon RX 7900 XTX, Dzinēja ātrums (GPU speed): 2270 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1171.48
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2760 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1186.99
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2700 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1194.1
+GPU modelis: Radeon RX 6950 XT, Dzinēja ātrums (GPU speed): 2116 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1206.42
+GPU modelis: Radeon RX 7900 XTX, Dzinēja ātrums (GPU speed): 2395 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1212.46
+GPU modelis: GeForce RTX 4070 Ti, Dzinēja ātrums (GPU speed): 2700 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Liquid Cooling Solution, Cena: 1218.54
+GPU modelis: Quadro RTX 4000, Dzinēja ātrums (GPU speed): 1005 MHz, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 1230.18
+GPU modelis: Radeon RX 6900 XT, Dzinēja ātrums (GPU speed): 2105 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1241.11
+GPU modelis: Radeon RX 7900 XTX, Dzinēja ātrums (GPU speed): 2510 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1268.13
+GPU modelis: Radeon RX 7900 XTX, Dzinēja ātrums (GPU speed): 2525 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 1286.66
+GPU modelis: Radeon RX 7900 XTX, Dzinēja ātrums (GPU speed): 2330 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 1287.13
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 1313.85
+GPU modelis: Quadro RTX 4000, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Standard Cooler, Cena: 1327.91
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1340.87
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2520 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 1357.36
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 1361.74
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 1365.88
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1374.07
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1396.29
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 1397.37
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1403.78
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1405.84
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1433.26
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1437.59
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1439.18
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 1460.68
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1466.44
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2520 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1557.21
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1595.79
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Water Block Only, Cena: 1623.85
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2505 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1701.06
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2625 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 1737.23
+GPU modelis: RTX 4000 SFF, Dzinēja ātrums (GPU speed): Nav norādīts, Barošanas ligzdas: Nav, Operatīvā atmiņa: 20 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Blower, Cena: 1738.52
+GPU modelis: GeForce RTX 4080, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Water Block Only, Cena: 1783.41
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2520 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2177.66
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2204.79
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2520 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 2222.74
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2227.53
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2520 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2277.61
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2303.93
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2595 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2327.28
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Standard Cooler, Cena: 2328.07
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 2337.25
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2625 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2338.37
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2338.37
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2625 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Liquid Cooling Solution, Cena: 2369.48
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2394.99
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2410.0
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2416.49
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2535 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2423.16
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2580 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2424.56
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2235 MHz, Barošanas ligzdas: 3x 8-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Liquid Cooling Solution, Cena: 2476.52
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2520 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2488.05
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2523.16
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2520 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2526.77
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2565 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Liquid Cooling Solution, Cena: 2528.32
+GPU modelis: RTX A5000, Dzinēja ātrums (GPU speed): 1695 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Blower, Cena: 2536.22
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2610 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2543.34
+GPU modelis: Tesla T4, Dzinēja ātrums (GPU speed): 1590 MHz, Barošanas ligzdas: Nav, Operatīvā atmiņa: 16 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Passive, Cena: 2582.54
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2550 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 2613.17
+GPU modelis: Radeon RX 6700 XT, Dzinēja ātrums (GPU speed): 2424 MHz, Barošanas ligzdas: 1x 8-pin + 1x 6-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 2659.76
+GPU modelis: Radeon RX 6700 XT, Dzinēja ātrums (GPU speed): 2424 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 12 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: High-End Cooler, Cena: 3401.09
+GPU modelis: NVIDIA A16, Dzinēja ātrums (GPU speed): 1695 MHz, Barošanas ligzdas: 1x 8-pin, Operatīvā atmiņa: 64GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Passive, Cena: 3665.35
+GPU modelis: GeForce RTX 4090, Dzinēja ātrums (GPU speed): 2670 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 24 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: Liquid Cooling Solution, Cena: 3668.35
+GPU modelis: GeForce RTX 3070 Ti, Dzinēja ātrums (GPU speed): 1800 MHz, Barošanas ligzdas: 2x 8-pin, Operatīvā atmiņa: 8 GB, Atmiņas tehnoloģija: GDDR6X, Dzesēšana: High-End Cooler, Cena: 3679.41
+GPU modelis: RTX A6000, Dzinēja ātrums (GPU speed): 915 MHz, Barošanas ligzdas: 1 x 16-pin, Operatīvā atmiņa: 48 GB, Atmiņas tehnoloģija: GDDR6, Dzesēšana: Blower, Cena: 8062.06
